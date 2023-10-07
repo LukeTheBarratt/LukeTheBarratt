@@ -26,5 +26,7 @@ My current research interests include:
 ### Contact Details
 
 Email: lab85@cam.ac.uk
+
 Post: Trinity College, Cambridge, CB2 1TQ, United Kingdom
+
 Office: D0.17, Centre for Mathematical Sciences
